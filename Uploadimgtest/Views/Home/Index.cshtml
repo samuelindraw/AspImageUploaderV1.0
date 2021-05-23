@@ -1,0 +1,35 @@
+﻿@model IEnumerable<Uploadimgtest.Models.User>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h4 class="text-center text-uppercase">Upload gambar</h4>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Nama)</th>
+            <th>@Html.DisplayNameFor(model => model.Keterangan)</th>
+            <th>@Html.DisplayNameFor(model => model.ImgPath)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var image in Model)
+        {
+        <tr>
+            <td>
+                <img src="http://localhost:53944/@image.ImgPath"
+                     class="rounded-circle"
+                     height="40" width="40"
+                     asp-append-version="true" />
+               
+                @image.Nama
+            </td>
+            <td>@image.Keterangan</td>
+            <td>\@image.ImgPath</td>
+        </tr>
+
+        }
+    </tbody>
+</table>   

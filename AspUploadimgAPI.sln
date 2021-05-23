@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspUploadimgAPI", "AspUploadimgAPI\AspUploadimgAPI.csproj", "{6237C441-0C0A-4D3F-9BC6-07F7887D23D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uploadimgtest", "Uploadimgtest\Uploadimgtest.csproj", "{4EE54917-9405-40BC-8AE7-593B9E0BBD06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6237C441-0C0A-4D3F-9BC6-07F7887D23D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6237C441-0C0A-4D3F-9BC6-07F7887D23D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6237C441-0C0A-4D3F-9BC6-07F7887D23D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6237C441-0C0A-4D3F-9BC6-07F7887D23D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EE54917-9405-40BC-8AE7-593B9E0BBD06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EE54917-9405-40BC-8AE7-593B9E0BBD06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EE54917-9405-40BC-8AE7-593B9E0BBD06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EE54917-9405-40BC-8AE7-593B9E0BBD06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC983CF9-F5E9-4969-A96E-CDB591200B29}
+	EndGlobalSection
+EndGlobal
