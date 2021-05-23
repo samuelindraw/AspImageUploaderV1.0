@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samue\\source\\repos\\AspUploadimgAPI\\Uploadimgtest\\Uploadimgtest.csproj": {}
+    "C:\\Users\\samue\\source\\repos\\AspUploadimgAPI\\AspImageUploaderV1.0\\Uploadimgtest\\Uploadimgtest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samue\\source\\repos\\AspUploadimgAPI\\Uploadimgtest\\Uploadimgtest.csproj": {
+    "C:\\Users\\samue\\source\\repos\\AspUploadimgAPI\\AspImageUploaderV1.0\\Uploadimgtest\\Uploadimgtest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samue\\source\\repos\\AspUploadimgAPI\\Uploadimgtest\\Uploadimgtest.csproj",
+        "projectUniqueName": "C:\\Users\\samue\\source\\repos\\AspUploadimgAPI\\AspImageUploaderV1.0\\Uploadimgtest\\Uploadimgtest.csproj",
         "projectName": "Uploadimgtest",
-        "projectPath": "C:\\Users\\samue\\source\\repos\\AspUploadimgAPI\\Uploadimgtest\\Uploadimgtest.csproj",
+        "projectPath": "C:\\Users\\samue\\source\\repos\\AspUploadimgAPI\\AspImageUploaderV1.0\\Uploadimgtest\\Uploadimgtest.csproj",
         "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samue\\source\\repos\\AspUploadimgAPI\\Uploadimgtest\\obj\\",
+        "outputPath": "C:\\Users\\samue\\source\\repos\\AspUploadimgAPI\\AspImageUploaderV1.0\\Uploadimgtest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
